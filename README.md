@@ -1,0 +1,3 @@
+A modern Single Page Application (SPA) built using React that fetches product data from a public API and provides a smooth, responsive e-commerce-like user experience. Features: Single Page Application with React Dynamic routing using React Router Product listing with search & category filter Product detail page with quantity selector & buy option Authentication flow (Login & Signup) User profile with order history Conditional Navbar based on login state Responsive & colorful UI Loading and error handling LocalStorage-based state persistence
+
+Technology Stack: Frontend: React.js Build Tool: Vite Routing: React Router DOM API Handling: Fetch API Styling: CSS (Custom UI) State Management: React Hooks
